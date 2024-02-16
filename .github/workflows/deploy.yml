@@ -7,7 +7,7 @@ permissions:
   pages: read
     
 env:
-  targetEnv: dev
+  targetEnv: test
   
 name: Azure Bicep
 jobs:
